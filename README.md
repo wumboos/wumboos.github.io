@@ -369,8 +369,7 @@
             </p>
             <ul style="list-style: none; margin-left: 0;">
                 <li><strong>Developer:</strong> Wumboos</li>
-                <li><strong>Email:</strong> <a href="mailto:support@cubudget.com">support@cubudget.com</a></li>
-                <li><strong>GitHub:</strong> <a href="https://github.com/wumboos/exspendse" target="_blank">github.com/wumboos/exspendse</a></li>
+                <li><strong>Email:</strong> <a href="mailto:wumboos.studioo@gmail.com">support@cubudget.com</a></li>
             </ul>
             <p style="margin-top: 15px;">
                 We will respond to your inquiries within 30 days.
