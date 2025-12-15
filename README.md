@@ -368,7 +368,7 @@
             </p>
             <ul style="list-style: none; margin-left: 0;">
                 <li><strong>Developer:</strong> Wumboos</li>
-                <li><strong>Email:</strong> <a href="mailto:wumboos.studioo@gmail.com">wumboos.studioo@gmail.com</a></li>
+                <li><strong>Email:</strong> <a href="mailto:wumboos.studioo@gmail.com">wumboos.studio@gmail.com</a></li>
             </ul>
             <p style="margin-top: 15px;">
                 We will respond to your inquiries within 30 days.
